@@ -1,0 +1,46 @@
+header{
+    background-image: linear-gradient(to bottom , rgba(255,255,255,0.7),rgba(0,0,0,0.2)) , url(../imgs/ESP_4135.jpg) ;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* background:   no-repeat center center fixed;  */
+    background-size:cover;
+    height: 95vh;
+    
+    
+}
+
+h1{
+    font-family: 'Courgette', cursive;
+    font-size: 5rem;
+    
+}
+
+.save-date{
+    font-family: 'Qwigley', cursive;
+    font-size: 4rem;
+    font-weight: 600;
+    margin-bottom: -20px;
+}
+
+.date{
+    font-family: 'Qwigley', cursive;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-top: 0;
+}
+.heart{
+    height:20px;
+}
+
+.timer{
+    color:#0c0c0b;
+    font-size: 4rem;
+    font-family: 'Courgette', cursive;
+    margin-bottom: 0px;
+}
+.time{
+    margin-top: 0;
+    font-family: 'Courgette', cursive;
+    font-size: 1.5rem;
+}
